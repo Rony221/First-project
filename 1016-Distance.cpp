@@ -6,6 +6,6 @@ int main()
   int d,T;
   cin>>d;
     T=2*d;
-  cout<<T<<" minutos"<<endl;
+  cout<<T<<" minutod"<<endl;
   return 0;
 }
